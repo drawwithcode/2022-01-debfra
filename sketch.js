@@ -3,7 +3,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidht, windowHeight);
   // put setup code here
 }
 
@@ -11,3 +11,4 @@ function draw() {
   // put drawing code here
   background("green");
 }
+
