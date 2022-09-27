@@ -1,7 +1,3 @@
-function preload() {
-  // put preload code here
-}
-
 // define the variables for the scale
 let a = 0.0;
 let s = 0.0;
